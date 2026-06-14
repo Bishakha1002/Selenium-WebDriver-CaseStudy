@@ -26,8 +26,8 @@ public class ChromeCaseStudy8 {
 	@DataProvider(name="LoginData")
 	public Object[][] LoginData(){
 		return new Object[][] {
-			{"devanshbajpai99@gmail.com" , "23434234"},
-			{"bajpai08@gmail.com","23412313"}
+			{"thebishakhabharti@gmail.com" , "Bishakha2005"},
+			{"bishakhabharti1002@gmail.com","Bishakha1002"}
 		};
 	}
 	@Test(dataProvider="LoginData")
